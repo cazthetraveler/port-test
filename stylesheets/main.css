@@ -165,6 +165,7 @@
     height: 3rem;
     overflow: hidden;
     transition: width 0.3s;
+    will-change: width;
 }
 
 .project-card.open .badge-container {
